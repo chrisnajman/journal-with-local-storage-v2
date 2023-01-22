@@ -2,6 +2,7 @@
 
 Use your browser as a journal (entries can only be viewed locally).
 V2 now has an image upload facility.
+
 **Note**
 
 - Images must be stored in the `images` folder.
